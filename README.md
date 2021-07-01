@@ -8,3 +8,8 @@
     <img src="https://discord.c99.nl/widget/theme-4/852606044256862269.png">
 </p>
 
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
