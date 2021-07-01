@@ -7,10 +7,12 @@
 <details>
       <summary>Contact.</summary>
   <p align=center>
-    <a href="https://github.com/FireCrack-V7"📡 ・ Github</a>
+    <a href="https://github.com/bash0x0">Github lol.</a>
     <br>
-    <a href="mailto:firecrack57@gmail.com">📧 ・ Adresse Mail</a>
+    <a href="mailto:bash0x0@protonmail.com">bash0x0@protonmail.com</a>
     <br>
-    <a href="https://discord.com/users/852606044256862269">Liim’s#0001</a>
+    <a href="https://twitter.com/bash0x00">@bash0x00</a>
+    <br>
+    <a href="https://discord.com/users/210854712935841792">bash0x0#1337</a>
   </p>
 </details>
