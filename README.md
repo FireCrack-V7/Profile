@@ -16,3 +16,7 @@
     <a href="https://discord.com/users/210854712935841792">bash0x0#1337</a>
   </p>
 </details>
+
+<p align="center">
+    <img src="https://discord.c99.nl/widget/theme-4/210854712935841792.png">
+</p>
